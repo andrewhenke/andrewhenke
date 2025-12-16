@@ -3,7 +3,7 @@ I'm an enterprise full stack developer, system administrator, and cybersecurity 
 
 Feel free to visit my website at [andrewhenke.com](https://andrewhenke.com?utm_source=github&utm_medium=profileclick) to learn more about who I am, my skillset, prior clients and get in contact, as well as for a complimentary new client consultation!  
 
-If you'd like to connect, send me a message via [LinkedIn](https://www.linkedin.com/in/andrew-c-henke/) or [Twitter](https://twitter.com/andrewchenke) and I'll get back to you as soon as possible! I thourogly enjoy speaking to all, and will always be more than happy to assist you with your project or questions. 
+If you'd like to connect, send me a message via [LinkedIn](https://www.linkedin.com/in/andrew-c-henke/) or [X](https://x.com/andrewchenke) and I'll get back to you as soon as possible! I thourogly enjoy speaking to all, and will always be more than happy to assist you with your project or questions. 
 
 
 ### Public Repository Statistics 👨‍💻
